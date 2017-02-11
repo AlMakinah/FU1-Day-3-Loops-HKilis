@@ -23,7 +23,7 @@ You need to parse this CSV file and then map the spies to the following lists:
  
 ### Task
 
-Download the CSV from this link [github] and then create a ruby script to read the CSV and map the data of the spies to three arrays as mentioned in the mission.
+Download the CSV from this [Link](https://github.com/AlMakinah/exercise_2/blob/master/support/spies.csv) and then create a ruby script to read the CSV and map the data of the spies to three arrays as mentioned in the mission.
 
 Sample Output: 
 
